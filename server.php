@@ -1,5 +1,5 @@
 <?php
-die('Testing');
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
